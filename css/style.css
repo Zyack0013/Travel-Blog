@@ -282,37 +282,37 @@ body{
 }
 
 .c1{
-    background-image: url(/images/Frame\ 11.png);
+    background-image: url(/images/Frame\ 11.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c2{
-    background-image: url(/images/Frame\ 12.png);
+    background-image: url(/images/Frame\ 12.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c3{
-    background-image: url(/images/Frame\ 13.png);
+    background-image: url(/images/Frame\ 13.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c4{
-    background-image: url(/images/Frame\ 14.png);
+    background-image: url(/images/Frame\ 14.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c5{
-    background-image: url(/images/Frame\ 15.png);
+    background-image: url(/images/Frame\ 15.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c6{
-    background-image: url(/images/Frame\ 16.png);
+    background-image: url(/images/Frame\ 16.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -339,7 +339,7 @@ body{
 }
 
 .container5{
-    background-image: url(/images/Rectangle\ 4.png);
+    background-image: url(/images/Rectangle\ 4.webp);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -375,6 +375,7 @@ body{
 
 .bcard:hover{
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.947);
+    cursor: pointer;
 }
 
 .bcard h3{
@@ -394,27 +395,27 @@ body{
 }
 
 .g1{
-    background-image: url(/images/Frame\ 17.png);
+    background-image: url(/images/Frame\ 17.webp);
 }
 
 .g2{
-    background-image: url(/images/Frame\ 18.png);
+    background-image: url(/images/Frame\ 18.webp);
 }
 
 .g3{
-    background-image: url(/images/Frame\ 19.png);
+    background-image: url(/images/Frame\ 19.webp);
 }
 
 .g4{
-    background-image: url(/images/Frame\ 20.png);
+    background-image: url(/images/Frame\ 20.webp);
 }
 
 .g5{
-    background-image: url(/images/Frame\ 21.png);
+    background-image: url(/images/Frame\ 21.webp);
 }
 
 .g6{
-    background-image: url(/images/Frame\ 22.png);
+    background-image: url(/images/Frame\ 22.webp);
 }
 
 
