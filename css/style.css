@@ -282,37 +282,37 @@ body{
 }
 
 .c1{
-    background-image: url(../images/Frame\ 11.webp);
+    background-image: url('../images/Frame\ 11.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c2{
-    background-image: url(../images/Frame\ 12.webp);
+    background-image: url('../images/Frame\ 12.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c3{
-    background-image: url(../images/Frame\ 13.webp);
+    background-image: url('../images/Frame\ 13.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c4{
-    background-image: url(../images/Frame\ 14.webp);
+    background-image: url('../images/Frame\ 14.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c5{
-    background-image: url(../images/Frame\ 15.webp);
+    background-image: url('../images/Frame\ 15.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .c6{
-    background-image: url(../images/Frame\ 16.webp);
+    background-image: url('../images/Frame\ 16.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -339,7 +339,7 @@ body{
 }
 
 .container5{
-    background-image: url(../images/Rectangle\ 4.webp);
+    background-image: url('../images/Rectangle\ 4.webp');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -395,27 +395,27 @@ body{
 }
 
 .g1{
-    background-image: url(../images/Frame\ 17.webp);
+    background-image: url('../images/Frame\ 17.webp');
 }
 
 .g2{
-    background-image: url(../images/Frame\ 18.webp);
+    background-image: url('../images/Frame\ 18.webp');
 }
 
 .g3{
-    background-image: url(../images/Frame\ 19.webp);
+    background-image: url('../images/Frame\ 19.webp');
 }
 
 .g4{
-    background-image: url(../images/Frame\ 20.webp);
+    background-image: url('../images/Frame\ 20.webp');
 }
 
 .g5{
-    background-image: url(../images/Frame\ 21.webp);
+    background-image: url('../images/Frame\ 21.webp');
 }
 
 .g6{
-    background-image: url(../images/Frame\ 22.webp);
+    background-image: url('../images/Frame\ 22.webp');
 }
 
 
